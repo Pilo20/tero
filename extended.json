@@ -6,19 +6,26 @@
           "social": {
               "twitter_handle": "PoolTero",
               "instagram_handle": "stakepooltero"
-          },
-          "company": {
-              "name": "TERO",
-              "addr": "",
-              "city": "Cuenca",
-              "country": "ECUADOR",
-              "company_id": "",
-              "vat_id": ""
-          },
-          "about": {
-              "me": "",
-              "server": "CUENCA-ECUADOR ",
-              "company": ""
-          }
-       }
+             },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "operated from a small group in Cuenca-Ecuador, we are happy to be part of the cardano community.",
+            "server": "Network of 4 8GB servers, located in Cuenca - Ecuador.",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "88ad8407d0ca94fae8254604b29fbc2c5ae3d00a47b7117664ad849d",
+        "1": ""
+    },
+    "instagram-admin-handle": {
+        "0": "stakepooltero"
+    }
 }
