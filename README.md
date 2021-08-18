@@ -1,2 +1,1 @@
 Cardano
-POOL-TERO
