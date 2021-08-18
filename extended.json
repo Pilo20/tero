@@ -27,20 +27,8 @@
         "1": ""
     },
     "instagram-admin-handle": {
-        "0": "stakepooltero"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "nombre": "relé 1 Ecuador",
-                "tipo": "relé",
-                "clave": "144.126.142.67"
-            },
-            "1": {
-                "nombre": "relé 2 Ecuador",
-                "tipo": "relé",
-                "clave": "144.126.142.70"
-            },
-        }
-    } 
+        "0": "stakepooltero",
+        "cadena":"5e18c25ecff78bd20b9ee1291cf13fbe"
+    }
+   }
 }
