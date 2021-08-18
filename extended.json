@@ -26,7 +26,8 @@
         "1": ""
     },
     "instagram-admin-handle": {
-        "0": "stakepooltero"
+        "0": "stakepooltero",
+        "cadena":"5e18c25ecff78bd20b9ee1291cf13fbe"
     },
     "adapools_ext": {
         "prometheus": {
