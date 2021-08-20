@@ -6,7 +6,8 @@
           "social": {
               "twitter_handle": "PoolTero",
               "instagram_handle": "stakepooltero",
-              "facebook_handle": "StakepoolTero"
+              "facebook_handle": "StakepoolTero",
+              "telegram_handle": "PoolTero"
              },
         "company": {
             "name": "",
@@ -27,6 +28,6 @@
         "1": ""
     },
     "telegram-admin-handle": {
-        "0": ""
+        "0": "PoolTero"
     }
 }
